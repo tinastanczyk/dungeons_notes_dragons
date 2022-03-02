@@ -11,7 +11,7 @@
 ## Installation
         - Just open in the browser via the link provided. 
 ## Usage
-        - In the browser @ https://morning-hollows-59577.herokuapp.com/
+        - In the browser @ https://agile-tundra-64769.herokuapp.com/
 ## Screenshot
 ![Screenshot](client/public/images/dndIconSmall.png)
 ![Screenshot](assets/images/dnd4.png)
