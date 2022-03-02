@@ -40,5 +40,5 @@
 ## Tests
         - Application tested manually at milestones.
 ## Questions
-    - Please direct questions to andrew.read.dev@gmail.com    
-    - GitHub  https://www.github.com/AJRead13 
+    - Please direct questions to t9.stanczyk@gmail.com    
+    - GitHub  https://github.com/tinastanczyk/dungeons_notes_dragons
